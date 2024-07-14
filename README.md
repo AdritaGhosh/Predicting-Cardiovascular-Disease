@@ -8,3 +8,12 @@ Cardiovascular disease (CVD) is a leading cause of death globally. This project 
 
 ## Data Pre-processing and Visualisation
 The dataset underwent cleaning, transformation, and visualisation to handle missing values, correct data types, and address class imbalance. Methods included label encoding, MinMaxScaler, and RandomOverSampler.
+
+## Basic Task Implementation
+Implemented and evaluated several models:
+* Multiclass SVM
+* Multilayer Perceptron (MLP)
+* Deep CNN
+* KMeans Clustering
+
+
