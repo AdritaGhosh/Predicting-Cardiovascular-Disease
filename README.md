@@ -11,9 +11,26 @@ The dataset underwent cleaning, transformation, and visualisation to handle miss
 
 ## Basic Task Implementation
 Implemented and evaluated several models:
-* Multiclass SVM
-* Multilayer Perceptron (MLP)
-* Deep CNN
-* KMeans Clustering
+* **Multiclass SVM**
+* **Multilayer Perceptron (MLP)**
+* **Deep CNN**
+* **KMeans Clustering**
+
+## Enhancing Task Accuracy
+Enhanced model accuracy using advanced AI techniques:
+* Hyperparameter Tuning and Scaling for SVM
+* RandomizedSearchCV for MLP
+* Batch Normalization and Data Reshaping for CNN
+* PCA and Gaussian Mixture Models for Clustering
+
+## Evaluation
+Significant improvements were observed:
+* **SVM:** Test accuracy improved to 91.67%
+* **MLP:** Test accuracy improved to 76.67%
+* **CNN:** Test accuracy improved to 80.00%
+* **Clustering:** Improved ARI to 0.06
+
+## Conclusion
+Advanced AI techniques significantly enhance the accuracy of heart disease prediction. Ethical considerations must be addressed to ensure responsible implementation in healthcare.
 
 
