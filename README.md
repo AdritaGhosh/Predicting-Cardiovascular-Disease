@@ -1,2 +1,4 @@
-# Predicting-Cardiovascular-Disease
-This repository contains the project and source code for predicting cardiovascular disease (CVD) using advanced AI techniques. The project explores the application of various machine learning models and AI algorithms to improve the accuracy of heart disease diagnosis.
+# Predicting Cardiovascular Disease
+Cardiovascular disease (CVD) is a leading cause of death globally. This project leverages AI and machine learning to predict heart disease early, using patient data including medical history, lifestyle factors, and genetic information. Early diagnosis is crucial for effective prevention and management.
+
+## Project Proposal
