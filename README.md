@@ -1,5 +1,5 @@
 # Predicting Cardiovascular Disease
-Cardiovascular disease (CVD) is a leading cause of death globally. This project leverages AI and machine learning to predict heart disease early, using patient data including medical history, lifestyle factors, and genetic information. Early diagnosis is crucial for effective prevention and management.
+Cardiovascular disease (CVD) is a leading cause of death globally. This project leverages AI and machine learning to predict heart disease early, using patient data including medical history, lifestyle factors, and genetic information. Early diagnosis is crucial for effective prevention and management. Description of this project is given in my [medium article](https://medium.com/@adrita21/predicting-cardiovascular-disease-using-advanced-ai-techniques-7b48c3f66541).
 
 ## Project Proposal
 * **Problem Statement:** Traditional CVD diagnosis methods can be time-consuming and costly.
